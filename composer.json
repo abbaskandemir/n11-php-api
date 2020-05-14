@@ -10,6 +10,18 @@
             "email": "ismaiil_0234@hotmail.com"
         }
     ],
+    {
+      "repositories":
+      [
+        {
+          "type": "vcs",
+          "url": "https://github.com/eminks/n11-php-api"
+        }
+      ],
+      "require": {
+        "ismail0234/n11-php-api": "dev"
+      },
+    }
     "require": {},
     "autoload": {
         "psr-4": {
